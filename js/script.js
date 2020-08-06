@@ -85,7 +85,7 @@
     });
 
     /*CountDown*/
-    $(".married_coundown").countdown({ until: new Date(2020, 9, 6, 16) });
+    $(".married_coundown").countdown({ until: new Date("September 6, 2020 16:00:00") });
 
     /*OWL Carousel in Our Story*/
     $(".story_wrapper").owlCarousel({
