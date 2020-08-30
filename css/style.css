@@ -1969,3 +1969,7 @@ h1 {
 		flex-direction: column;
 	}
 }
+
+#zoom {
+	text-align: left;
+}
